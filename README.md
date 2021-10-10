@@ -1,3 +1,7 @@
+
+![alt text](https://github.com/aantor/react-expense/blob/main/expense.PNG?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
